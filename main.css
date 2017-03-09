@@ -262,7 +262,7 @@ p, body {font-family: 'Exo 2', sans-serif;
 }
 #day, #text {
      fill: rgba(255, 255, 255, 0.4);
-   font-family: "Marck Script script=all rev=1","Adobe Blank"
+   font-family: "Marck Script script=all rev=1","Adobe Blank";
     stroke: rgb(126, 115, 105);
     stroke-width: 0.8px;
     stroke-linecap: round;
