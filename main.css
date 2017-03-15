@@ -406,7 +406,7 @@ p, body {font-family: 'Exo 2', sans-serif;
     font-size: 18px;
     line-height: 1.4;
   }
-
+.logo{display:none;}
 }
 page {
   background: white url(http://slovomarket.ru/wp-content/themes/dt-the7/images/backgrounds/patterns/full/poly.png);
@@ -654,8 +654,11 @@ label {
 -------------------------------------------------- */
 @media screen and (max-width:400px){
 .course {width: 80%;}
+.greeting, .weekDay {display:none;}
+.logo{display:block;}
 }
 @media screen and (max-width:610px){
+	.logo{display:none;}
 	page[size="A4"] {
     width:97%;
     height: auto;
