@@ -430,7 +430,7 @@ page[size="A4"][layout="portrait"] {
   justify-content:space-around;}
   .wrap {flex-wrap:wrap;}
   .center {align-self:center;}
- #skills, #intro {width:50%;   padding: 15px;}
+ #skills, #intro, .education, #contacts {width:50%;   padding: 15px;}
  
  .skills {
   width: 98%;
