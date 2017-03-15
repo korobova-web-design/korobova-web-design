@@ -660,6 +660,9 @@ label {
     height: auto;
     padding-top: 20px;
 }
+.h3, h3 {
+    font-size: 18px;
+}
 .navbar-default {
     background-color: #c8c3dc;
     border-color: #b193b4;
