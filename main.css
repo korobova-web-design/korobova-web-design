@@ -669,8 +669,8 @@ label {
     font-size: 18px;
 }
 .navbar-default {
-    background-color: #c8c3dc;
-    border-color: #b193b4;
+    background-color: #fff;
+    border-color: #fff;
 }
  .rowgroup {
     display: flex;
