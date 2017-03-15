@@ -656,6 +656,7 @@ label {
 .course {width: 80%;}
 .greeting, .weekDay {display:none;}
 .logo{display:block;}
+.navbar-brand > img {max-width:100%;}
 }
 @media screen and (max-width:610px){
 	.logo{display:none;}
