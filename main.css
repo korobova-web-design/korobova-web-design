@@ -409,7 +409,7 @@ p, body {font-family: 'Exo 2', sans-serif;
 .logo{display:none !important;}
 .greeting {display:block;}
 }
-page {
+page { 
   background: white url(http://slovomarket.ru/wp-content/themes/dt-the7/images/backgrounds/patterns/full/poly.png);
   background-size:cover;
   display: block;
